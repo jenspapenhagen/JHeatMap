@@ -1,9 +1,9 @@
 ![jAVA](https://img.shields.io/badge/Language-Java-red.svg)
-# JHeatMap
+# de.papenhagen.jheatmap.JHeatMap
 
-**EN:** A heat map is a two-dimensional representation of data in which values are represented by colors. A simple heat map provides an immediate visual summary of information. More elaborate heat maps allow the viewer to understand complex data sets. Heat map generation with java. The RunHeatMap class demonstrates how to use it. For this class (JHeatMap), list and background image are required as parameters. Set the parameters and run this class (RunHeatMap), that's all.
+**EN:** A heat map is a two-dimensional representation of data in which values are represented by colors. A simple heat map provides an immediate visual summary of information. More elaborate heat maps allow the viewer to understand complex data sets. Heat map generation with java. The de.papenhagen.jheatmap.RunHeatMap class demonstrates how to use it. For this class (de.papenhagen.jheatmap.JHeatMap), list and background image are required as parameters. Set the parameters and run this class (de.papenhagen.jheatmap.RunHeatMap), that's all.
 
-**TR:** Java ile yoğunluk haritası oluşturma. RunHeatMap sınıfı nasıl kullanacağını gösterir. Bu sınıf (JHeatMap) için parametre olarak liste ve arka plan resmi gereklidir. Parametreleri ayarla ve bu sınıfı (RunHeatMap) çalıştır, hepsi bu kadar.
+**TR:** Java ile yoğunluk haritası oluşturma. de.papenhagen.jheatmap.RunHeatMap sınıfı nasıl kullanacağını gösterir. Bu sınıf (de.papenhagen.jheatmap.JHeatMap) için parametre olarak liste ve arka plan resmi gereklidir. Parametreleri ayarla ve bu sınıfı (de.papenhagen.jheatmap.RunHeatMap) çalıştır, hepsi bu kadar.
 
 Usage:
 
