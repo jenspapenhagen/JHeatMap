@@ -5,6 +5,8 @@
 
 **TR:** Java ile yoğunluk haritası oluşturma. RunHeatMap sınıfı nasıl kullanacağını gösterir. Bu sınıf (.JHeatMap) için parametre olarak liste ve arka plan resmi gereklidir. Parametreleri ayarla ve bu sınıfı (RunHeatMap) çalıştır, hepsi bu kadar.
 
+all Rights lay at [mesutpiskin](https://github.com/mesutpiski), I only ported this Projekt to Java 17. Therefore is Maven needed
+
 Results:
 
 ![heatmap](http://i.imgur.com/W0YCvkM.png)
